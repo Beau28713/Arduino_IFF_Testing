@@ -1,6 +1,5 @@
 
 //  AutoBanks Avionics Test System
-//  2019 Adam Yonce
 //  Performs self test of the AutoBanks System
 //   and sets the parameters for testing 
 //   the AN/APG-66 RADAR COMPUTER
